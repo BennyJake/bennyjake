@@ -1,6 +1,7 @@
 {
     "name": "bennyjake/bennyjake",
     "description": "simple description",
+    "version": "dev-master",
     "minimum-stability": "stable",
     "authors": [
         {
