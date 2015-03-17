@@ -1,11 +1,11 @@
 {
-    "name": "vendor_name/package_name",
-    "description": "description_text",
+    "name": "bennyjake/bennyjake",
+    "description": "simple description",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "author's name",
-            "email": "email@example.com"
+            "name": "Ben Chrisman",
+            "email": "me@bennyjake.com"
         }
     ]
 }
